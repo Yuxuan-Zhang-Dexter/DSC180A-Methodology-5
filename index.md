@@ -25,3 +25,5 @@ Instead of approximating FLOPs and memory requirements, a more robust approach w
 I am keen on employing a profiler to monitor the FLOPs and memory usage to verify the accuracy of our LLM simulator. Additionally, I would like to further investigate how fully sharded data parallelism can affect FLOPs and memory usage, either increasing efficiency or presenting new challenges.
 
 ---
+
+Website Link: https://yuxuan-zhang-dexter.github.io/DSC180A-Methodology-5/
